@@ -18,8 +18,11 @@
 
 ---
 ## Images:
+1) webapp
 <img width="1920" height="1080" alt="Screenshot 2026-10-03 221941" src="https://github.com/user-attachments/assets/26eb48f2-cf35-4c14-b3c2-561e6e8f6b8b" />
+2)Grafana dashboard for the project
 <img width="1920" height="1080" alt="Screenshot 2026-10-03 220547" src="https://github.com/user-attachments/assets/91a4ad3a-df4b-4399-96b2-5ed3c5eb4bba" />
+3)Prometheus for the project
 <img width="1920" height="1080" alt="Screenshot 2026-10-03 220846" src="https://github.com/user-attachments/assets/98b46c08-7e9b-40f7-9a00-35d06c4ede77" />
 
 
